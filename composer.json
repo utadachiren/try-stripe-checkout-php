@@ -1,0 +1,17 @@
+{
+    "name": "utadachiren/try-stripe-checkout-php",
+    "type": "project",
+    "require": {
+        "stripe/stripe-php": "^10.3"
+    },
+    "authors": [
+        {
+            "name": "utadachiren",
+            "email": "61718407+utadachiren@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
